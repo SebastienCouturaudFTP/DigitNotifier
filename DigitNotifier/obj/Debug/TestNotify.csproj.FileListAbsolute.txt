@@ -1,0 +1,14 @@
+C:\Users\slh\source\repos\TestNotify\TestNotify\obj\Debug\TestNotify.csproj.GenerateResource.cache
+C:\Users\slh\source\repos\TestNotify\TestNotify\obj\Debug\TestNotify.csproj.CoreCompileInputs.cache
+C:\Users\slh\source\repos\TestNotify\TestNotify\bin\Debug\Dapper.dll
+C:\Users\slh\source\repos\TestNotify\TestNotify\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\slh\source\repos\TestNotify\TestNotify\bin\Debug\Dapper.xml
+C:\Users\slh\source\repos\TestNotify\TestNotify\obj\Debug\TestNotify.csproj.CopyComplete
+C:\Users\slh\source\repos\TestNotify\TestNotify\obj\Debug\TestNotify.FicheListeFilms.resources
+C:\Users\slh\source\repos\TestNotify\TestNotify\bin\Debug\DigitNotifier.exe.config
+C:\Users\slh\source\repos\TestNotify\TestNotify\bin\Debug\DigitNotifier.exe
+C:\Users\slh\source\repos\TestNotify\TestNotify\bin\Debug\DigitNotifier.pdb
+C:\Users\slh\source\repos\TestNotify\TestNotify\obj\Debug\TestNotify.csprojAssemblyReference.cache
+C:\Users\slh\source\repos\TestNotify\TestNotify\obj\Debug\DigitNotifier.Properties.Resources.resources
+C:\Users\slh\source\repos\TestNotify\TestNotify\obj\Debug\DigitNotifier.exe
+C:\Users\slh\source\repos\TestNotify\TestNotify\obj\Debug\DigitNotifier.pdb

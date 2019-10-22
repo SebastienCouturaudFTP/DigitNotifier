@@ -1,0 +1,14 @@
+C:\Projets DotNet\DigIT\DigitNotifier\bin\Debug\DigitNotifier.exe.config
+C:\Projets DotNet\DigIT\DigitNotifier\bin\Debug\DigitNotifier.exe
+C:\Projets DotNet\DigIT\DigitNotifier\bin\Debug\DigitNotifier.pdb
+C:\Projets DotNet\DigIT\DigitNotifier\bin\Debug\Dapper.dll
+C:\Projets DotNet\DigIT\DigitNotifier\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Projets DotNet\DigIT\DigitNotifier\bin\Debug\Dapper.xml
+C:\Projets DotNet\DigIT\DigitNotifier\obj\Debug\DigitNotifier.csprojAssemblyReference.cache
+C:\Projets DotNet\DigIT\DigitNotifier\obj\Debug\TestNotify.FicheListeFilms.resources
+C:\Projets DotNet\DigIT\DigitNotifier\obj\Debug\DigitNotifier.Properties.Resources.resources
+C:\Projets DotNet\DigIT\DigitNotifier\obj\Debug\DigitNotifier.csproj.GenerateResource.cache
+C:\Projets DotNet\DigIT\DigitNotifier\obj\Debug\DigitNotifier.csproj.CoreCompileInputs.cache
+C:\Projets DotNet\DigIT\DigitNotifier\obj\Debug\DigitNotifier.csproj.CopyComplete
+C:\Projets DotNet\DigIT\DigitNotifier\obj\Debug\DigitNotifier.exe
+C:\Projets DotNet\DigIT\DigitNotifier\obj\Debug\DigitNotifier.pdb
